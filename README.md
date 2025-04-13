@@ -68,4 +68,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0973-stamping-the-sequence](https://github.com/Himanshu12211967/Leetcode/tree/master/0973-stamping-the-sequence) |
+## Math
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Himanshu12211967/Leetcode/tree/master/0062-unique-paths) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Himanshu12211967/Leetcode/tree/master/0062-unique-paths) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Himanshu12211967/Leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
