@@ -107,5 +107,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1278-product-price-at-a-given-date](https://github.com/Himanshu12211967/Leetcode/tree/master/1278-product-price-at-a-given-date) |
+| [1327-last-person-to-fit-in-the-bus](https://github.com/Himanshu12211967/Leetcode/tree/master/1327-last-person-to-fit-in-the-bus) |
 | [1452-restaurant-growth](https://github.com/Himanshu12211967/Leetcode/tree/master/1452-restaurant-growth) |
 <!---LeetCode Topics End-->
