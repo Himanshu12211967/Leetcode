@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Himanshu12211967/Leetcode/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Himanshu12211967/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0146-lru-cache](https://github.com/Himanshu12211967/Leetcode/tree/master/0146-lru-cache) |
 ## String
 |  |
 | ------- |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Himanshu12211967/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0061-rotate-list](https://github.com/Himanshu12211967/Leetcode/tree/master/0061-rotate-list) |
+| [0146-lru-cache](https://github.com/Himanshu12211967/Leetcode/tree/master/0146-lru-cache) |
 ## Two Pointers
 |  |
 | ------- |
@@ -116,4 +118,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1327-last-person-to-fit-in-the-bus](https://github.com/Himanshu12211967/Leetcode/tree/master/1327-last-person-to-fit-in-the-bus) |
 | [1390-average-selling-price](https://github.com/Himanshu12211967/Leetcode/tree/master/1390-average-selling-price) |
 | [1452-restaurant-growth](https://github.com/Himanshu12211967/Leetcode/tree/master/1452-restaurant-growth) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Himanshu12211967/Leetcode/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Himanshu12211967/Leetcode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
