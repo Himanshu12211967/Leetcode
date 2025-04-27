@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Himanshu12211967/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Himanshu12211967/Leetcode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1479-construct-target-array-with-multiple-sums](https://github.com/Himanshu12211967/Leetcode/tree/master/1479-construct-target-array-with-multiple-sums) |
+| [2195-time-needed-to-buy-tickets](https://github.com/Himanshu12211967/Leetcode/tree/master/2195-time-needed-to-buy-tickets) |
 | [2662-check-knight-tour-configuration](https://github.com/Himanshu12211967/Leetcode/tree/master/2662-check-knight-tour-configuration) |
 ## Hash Table
 |  |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2195-time-needed-to-buy-tickets](https://github.com/Himanshu12211967/Leetcode/tree/master/2195-time-needed-to-buy-tickets) |
 | [2662-check-knight-tour-configuration](https://github.com/Himanshu12211967/Leetcode/tree/master/2662-check-knight-tour-configuration) |
 ## Linked List
 |  |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0973-stamping-the-sequence](https://github.com/Himanshu12211967/Leetcode/tree/master/0973-stamping-the-sequence) |
+| [2195-time-needed-to-buy-tickets](https://github.com/Himanshu12211967/Leetcode/tree/master/2195-time-needed-to-buy-tickets) |
 ## Math
 |  |
 | ------- |
