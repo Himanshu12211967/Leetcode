@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Himanshu12211967/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0066-plus-one](https://github.com/Himanshu12211967/Leetcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Himanshu12211967/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0198-house-robber](https://github.com/Himanshu12211967/Leetcode/tree/master/0198-house-robber) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Himanshu12211967/Leetcode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1479-construct-target-array-with-multiple-sums](https://github.com/Himanshu12211967/Leetcode/tree/master/1479-construct-target-array-with-multiple-sums) |
 | [2195-time-needed-to-buy-tickets](https://github.com/Himanshu12211967/Leetcode/tree/master/2195-time-needed-to-buy-tickets) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/Himanshu12211967/Leetcode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Himanshu12211967/Leetcode/tree/master/0063-unique-paths-ii) |
+| [0198-house-robber](https://github.com/Himanshu12211967/Leetcode/tree/master/0198-house-robber) |
 ## Combinatorics
 |  |
 | ------- |
