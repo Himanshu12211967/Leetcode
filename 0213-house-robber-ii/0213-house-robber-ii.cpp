@@ -15,11 +15,13 @@ public:
         
         if(nums.size() == 1) return nums[0];
         if(nums.size() == 2) return max(nums[0],nums[1]);
-        
+
         vector<int> dp(nums.size()+1,-1);
         int firstway = solve(nums,0,nums.size()-2,dp);
-        vector<int> dp2(nums.size()+1,-1);
-        int secondway = solve(nums,1,nums.size()-1,dp2);
+
+        for(int i=0; i<=nums.size(); i++) dp[i] = -1;
+
+        int secondway = solve(nums,1,nums.size()-1,dp);
         return max(firstway,secondway);
     }
 
