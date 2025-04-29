@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Himanshu12211967/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0198-house-robber](https://github.com/Himanshu12211967/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Himanshu12211967/Leetcode/tree/master/0213-house-robber-ii) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Himanshu12211967/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0455-assign-cookies](https://github.com/Himanshu12211967/Leetcode/tree/master/0455-assign-cookies) |
 | [0475-heaters](https://github.com/Himanshu12211967/Leetcode/tree/master/0475-heaters) |
 | [0506-relative-ranks](https://github.com/Himanshu12211967/Leetcode/tree/master/0506-relative-ranks) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Himanshu12211967/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Himanshu12211967/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Himanshu12211967/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [2662-check-knight-tour-configuration](https://github.com/Himanshu12211967/Leetcode/tree/master/2662-check-knight-tour-configuration) |
 ## Simulation
 |  |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Himanshu12211967/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Himanshu12211967/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0506-relative-ranks](https://github.com/Himanshu12211967/Leetcode/tree/master/0506-relative-ranks) |
 | [1479-construct-target-array-with-multiple-sums](https://github.com/Himanshu12211967/Leetcode/tree/master/1479-construct-target-array-with-multiple-sums) |
 ## Merge Sort
@@ -146,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Himanshu12211967/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0455-assign-cookies](https://github.com/Himanshu12211967/Leetcode/tree/master/0455-assign-cookies) |
 | [0475-heaters](https://github.com/Himanshu12211967/Leetcode/tree/master/0475-heaters) |
 | [0506-relative-ranks](https://github.com/Himanshu12211967/Leetcode/tree/master/0506-relative-ranks) |
@@ -153,5 +157,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Himanshu12211967/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Himanshu12211967/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0475-heaters](https://github.com/Himanshu12211967/Leetcode/tree/master/0475-heaters) |
 <!---LeetCode Topics End-->
