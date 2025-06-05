@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Himanshu12211967/Leetcode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Himanshu12211967/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Himanshu12211967/Leetcode/tree/master/0213-house-robber-ii) |
+| [0238-product-of-array-except-self](https://github.com/Himanshu12211967/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Himanshu12211967/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0455-assign-cookies](https://github.com/Himanshu12211967/Leetcode/tree/master/0455-assign-cookies) |
 | [0475-heaters](https://github.com/Himanshu12211967/Leetcode/tree/master/0475-heaters) |
@@ -171,4 +172,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Himanshu12211967/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/Himanshu12211967/Leetcode/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
