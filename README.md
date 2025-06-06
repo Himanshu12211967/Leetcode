@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Himanshu12211967/Leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Himanshu12211967/Leetcode/tree/master/0011-container-with-most-water) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Himanshu12211967/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0054-spiral-matrix](https://github.com/Himanshu12211967/Leetcode/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/Himanshu12211967/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0066-plus-one](https://github.com/Himanshu12211967/Leetcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Himanshu12211967/Leetcode/tree/master/0073-set-matrix-zeroes) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Himanshu12211967/Leetcode/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/Himanshu12211967/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Himanshu12211967/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Himanshu12211967/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Himanshu12211967/Leetcode/tree/master/0054-spiral-matrix) |
 | [2195-time-needed-to-buy-tickets](https://github.com/Himanshu12211967/Leetcode/tree/master/2195-time-needed-to-buy-tickets) |
 | [2662-check-knight-tour-configuration](https://github.com/Himanshu12211967/Leetcode/tree/master/2662-check-knight-tour-configuration) |
 ## Linked List
