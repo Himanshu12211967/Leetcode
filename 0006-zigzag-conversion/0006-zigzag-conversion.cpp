@@ -1,34 +1,37 @@
 class Solution {
 public:
+
     string convert(string s, int numRows) {
         
-        if(numRows == 1) return s;
-        vector<string> ans(numRows);
-        bool top_down_dir = true;
-        int i=0;
+        vector<string> v(numRows);
+        int index = 0;
+        bool dir = true;
 
         for(auto ch : s){
 
-            ans[i].push_back(ch);
-
-            if(i == 0) top_down_dir = true;
-            if(i == numRows-1) top_down_dir = false;
-
-            if(top_down_dir == false){
-                i--;
+            if(index == numRows){
+                index-=2;
+                dir = false;
             }
-            else{
-                i++;
+            if(index == -1){
+                index+=2;
+                dir = true;
             }
+
+            if(index >= numRows || numRows <= -1) index = 0;
+            v[index].push_back(ch);
+            if(dir == true) index++;
+            else index--;
+
         }
 
-        string str = "";
+        string ans = "";
 
-        for(auto x : ans){
-            str += x;
+        for(auto x : v){
+            ans += x;
         }
 
-        return str;
+        return ans;
 
     }
 };
