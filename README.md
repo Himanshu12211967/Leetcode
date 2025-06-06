@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Himanshu12211967/Leetcode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Himanshu12211967/Leetcode/tree/master/0011-container-with-most-water) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Himanshu12211967/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0063-unique-paths-ii](https://github.com/Himanshu12211967/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0066-plus-one](https://github.com/Himanshu12211967/Leetcode/tree/master/0066-plus-one) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Himanshu12211967/Leetcode/tree/master/0011-container-with-most-water) |
 | [0061-rotate-list](https://github.com/Himanshu12211967/Leetcode/tree/master/0061-rotate-list) |
 | [0189-rotate-array](https://github.com/Himanshu12211967/Leetcode/tree/master/0189-rotate-array) |
 | [0455-assign-cookies](https://github.com/Himanshu12211967/Leetcode/tree/master/0455-assign-cookies) |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Himanshu12211967/Leetcode/tree/master/0011-container-with-most-water) |
 | [0134-gas-station](https://github.com/Himanshu12211967/Leetcode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/Himanshu12211967/Leetcode/tree/master/0135-candy) |
 | [0455-assign-cookies](https://github.com/Himanshu12211967/Leetcode/tree/master/0455-assign-cookies) |
