@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Himanshu12211967/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0066-plus-one](https://github.com/Himanshu12211967/Leetcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Himanshu12211967/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/Himanshu12211967/Leetcode/tree/master/0079-word-search) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Himanshu12211967/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Himanshu12211967/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0120-triangle](https://github.com/Himanshu12211967/Leetcode/tree/master/0120-triangle) |
@@ -60,12 +61,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Himanshu12211967/Leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Himanshu12211967/Leetcode/tree/master/0022-generate-parentheses) |
 | [0071-simplify-path](https://github.com/Himanshu12211967/Leetcode/tree/master/0071-simplify-path) |
+| [0079-word-search](https://github.com/Himanshu12211967/Leetcode/tree/master/0079-word-search) |
 | [0097-interleaving-string](https://github.com/Himanshu12211967/Leetcode/tree/master/0097-interleaving-string) |
 | [0257-binary-tree-paths](https://github.com/Himanshu12211967/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0973-stamping-the-sequence](https://github.com/Himanshu12211967/Leetcode/tree/master/0973-stamping-the-sequence) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Himanshu12211967/Leetcode/tree/master/0079-word-search) |
 | [0101-symmetric-tree](https://github.com/Himanshu12211967/Leetcode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Himanshu12211967/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Himanshu12211967/Leetcode/tree/master/0112-path-sum) |
@@ -108,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Himanshu12211967/Leetcode/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/Himanshu12211967/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Himanshu12211967/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/Himanshu12211967/Leetcode/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/Himanshu12211967/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Himanshu12211967/Leetcode/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/Himanshu12211967/Leetcode/tree/master/0221-maximal-square) |
@@ -211,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Himanshu12211967/Leetcode/tree/master/0022-generate-parentheses) |
+| [0079-word-search](https://github.com/Himanshu12211967/Leetcode/tree/master/0079-word-search) |
 | [0257-binary-tree-paths](https://github.com/Himanshu12211967/Leetcode/tree/master/0257-binary-tree-paths) |
 ## Tree
 |  |
