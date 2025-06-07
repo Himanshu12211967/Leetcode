@@ -1,36 +1,37 @@
 class Solution {
 public:
-
     string simplifyPath(string path) {
         
-        vector<string> stack;
+        vector<string>st;
         int i=0;
 
-        while(i < path.size()){
+        while(i < path.length()){
 
-            while(i < path.size() && path[i] == '/') i++;
+            while(i < path.length() && path[i] == '/') i++;
 
-            string dir = "";
-            while(i < path.size() && path[i] != '/'){
-                dir += path[i];
+            string word = "";
+            while(i < path.length() && path[i] != '/'){
+                word += path[i];
                 i++;
             }
 
-            if(dir == "" || dir == ".") continue;
-            else if(dir == ".."){
-                if(!stack.empty()) stack.pop_back();
+            if(word == ".." ){
+                if(!st.empty())
+                st.pop_back();
             }
-            else stack.push_back(dir);
+            else if(word == "." || word == "") continue;
+            else st.push_back(word);
+
         }
 
-        string result = "";
-        if(stack.empty()) return "/";
+        string ans = "";
+        if(st.empty()) return "/";
 
-        for(auto s : stack){
-            result = result + "/" + s;
+        for(auto s : st){
+            ans = ans + '/' + s;
         }
-
-        return result;
+        
+        return ans;
 
     }
 };
