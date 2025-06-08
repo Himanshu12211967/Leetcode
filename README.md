@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Himanshu12211967/Leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Himanshu12211967/Leetcode/tree/master/0022-generate-parentheses) |
 | [0071-simplify-path](https://github.com/Himanshu12211967/Leetcode/tree/master/0071-simplify-path) |
+| [0072-edit-distance](https://github.com/Himanshu12211967/Leetcode/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/Himanshu12211967/Leetcode/tree/master/0079-word-search) |
 | [0097-interleaving-string](https://github.com/Himanshu12211967/Leetcode/tree/master/0097-interleaving-string) |
 | [0257-binary-tree-paths](https://github.com/Himanshu12211967/Leetcode/tree/master/0257-binary-tree-paths) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Himanshu12211967/Leetcode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Himanshu12211967/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Himanshu12211967/Leetcode/tree/master/0064-minimum-path-sum) |
+| [0072-edit-distance](https://github.com/Himanshu12211967/Leetcode/tree/master/0072-edit-distance) |
 | [0097-interleaving-string](https://github.com/Himanshu12211967/Leetcode/tree/master/0097-interleaving-string) |
 | [0120-triangle](https://github.com/Himanshu12211967/Leetcode/tree/master/0120-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Himanshu12211967/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
