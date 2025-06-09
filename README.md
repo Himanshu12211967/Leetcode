@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Himanshu12211967/Leetcode/tree/master/0079-word-search) |
 | [0097-interleaving-string](https://github.com/Himanshu12211967/Leetcode/tree/master/0097-interleaving-string) |
 | [0257-binary-tree-paths](https://github.com/Himanshu12211967/Leetcode/tree/master/0257-binary-tree-paths) |
+| [0392-is-subsequence](https://github.com/Himanshu12211967/Leetcode/tree/master/0392-is-subsequence) |
 | [0973-stamping-the-sequence](https://github.com/Himanshu12211967/Leetcode/tree/master/0973-stamping-the-sequence) |
 ## Depth-First Search
 |  |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/Himanshu12211967/Leetcode/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Himanshu12211967/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0189-rotate-array](https://github.com/Himanshu12211967/Leetcode/tree/master/0189-rotate-array) |
+| [0392-is-subsequence](https://github.com/Himanshu12211967/Leetcode/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/Himanshu12211967/Leetcode/tree/master/0455-assign-cookies) |
 | [0475-heaters](https://github.com/Himanshu12211967/Leetcode/tree/master/0475-heaters) |
 ## Divide and Conquer
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/Himanshu12211967/Leetcode/tree/master/0221-maximal-square) |
 | [0300-longest-increasing-subsequence](https://github.com/Himanshu12211967/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Himanshu12211967/Leetcode/tree/master/0322-coin-change) |
+| [0392-is-subsequence](https://github.com/Himanshu12211967/Leetcode/tree/master/0392-is-subsequence) |
 ## Combinatorics
 |  |
 | ------- |
