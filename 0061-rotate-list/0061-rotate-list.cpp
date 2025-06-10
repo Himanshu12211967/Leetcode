@@ -11,35 +11,39 @@
 class Solution {
 public:
 
-    ListNode* rotateRight(ListNode* head, int k) {
-        
-        if(head == NULL) return head;
-        ListNode *newhead = head;
-        ListNode *tail = NULL;
+    int count(ListNode *head){
         int len = 0;
-
-        for(ListNode *temp = head; temp != NULL; temp=temp->next){
+        while(head){
+            head=head->next;
             len++;
-            if(temp->next == NULL) tail = temp; // update the tail node
         }
+        return len;
+    }
 
-        if(k == 0 || k % len == 0) return head;
+    ListNode* rotateRight(ListNode* head, int k) {
 
+        if(!head) return NULL;
+        int len = count(head);
         k = k % len;
-        k = len - k;
-        while(k != 0){
-            newhead = newhead->next;
+        if(k == 0) return head;
+        k = len-k;
+
+        ListNode *ans = NULL;
+        ListNode *temp = head;
+
+        while(temp->next != NULL){
+            temp=temp->next;
             k--;
+            if(k == 0) ans = temp;
         }
 
-        tail->next = head;
+        temp->next = head;
 
-        while(head->next != newhead){
-            head = head->next;
-        }     
+        while(head != NULL && head->next != ans){
+            head=head->next;
+        }
 
         head->next = NULL;
-        return newhead;
-
+        return ans;
     }
 };
