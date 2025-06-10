@@ -5,16 +5,20 @@ public:
         
         reverse(digits.begin(),digits.end());
         int carry = 1;
+        int i=0;
 
-        for(int i=0; i<digits.size(); i++){
-            int sum = carry + digits[i];
-            carry = sum/10;
-            sum %= 10;
-            digits[i] = sum;
+        while(i < digits.size()){
+
+            int num = digits[i];
+            num += carry;
+            carry = num/10;
+            num %= 10;
+            digits[i++] = num;
         }
 
-        if(carry) digits.push_back(carry);
+        if(carry != 0) digits.push_back(carry);
         reverse(digits.begin(),digits.end());
         return digits;
+
     }
 };
