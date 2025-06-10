@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Himanshu12211967/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/Himanshu12211967/Leetcode/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/Himanshu12211967/Leetcode/tree/master/0169-majority-element) |
+| [0433-minimum-genetic-mutation](https://github.com/Himanshu12211967/Leetcode/tree/master/0433-minimum-genetic-mutation) |
 ## String
 |  |
 | ------- |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/Himanshu12211967/Leetcode/tree/master/0127-word-ladder) |
 | [0257-binary-tree-paths](https://github.com/Himanshu12211967/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0392-is-subsequence](https://github.com/Himanshu12211967/Leetcode/tree/master/0392-is-subsequence) |
+| [0433-minimum-genetic-mutation](https://github.com/Himanshu12211967/Leetcode/tree/master/0433-minimum-genetic-mutation) |
 | [0973-stamping-the-sequence](https://github.com/Himanshu12211967/Leetcode/tree/master/0973-stamping-the-sequence) |
 ## Depth-First Search
 |  |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/Himanshu12211967/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/Himanshu12211967/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/Himanshu12211967/Leetcode/tree/master/0322-coin-change) |
+| [0433-minimum-genetic-mutation](https://github.com/Himanshu12211967/Leetcode/tree/master/0433-minimum-genetic-mutation) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Himanshu12211967/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [2662-check-knight-tour-configuration](https://github.com/Himanshu12211967/Leetcode/tree/master/2662-check-knight-tour-configuration) |
 ## Matrix
