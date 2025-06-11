@@ -26,7 +26,7 @@ public:
             for(int i=1; i<=6; i++){
                 int nextpos = currpos + i;
                 if(nextpos > lastpos) break;
-                int r = (row-1)-(nextpos-1)/col; // 6-0=4
+                int r = (row-1)-(nextpos-1)/row; // 6-0=4
                 int c = (nextpos-1)%col;
                 if ((row - 1 - r) % 2 == 1) {
                     c = col - 1 - c;
