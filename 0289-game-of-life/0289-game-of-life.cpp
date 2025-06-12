@@ -1,7 +1,7 @@
 class Solution {
 public:
 
-    int solve(vector<vector<int>> board,int x,int y){
+    int solve(vector<vector<int>> &board,int x,int y){
 
         int dx[] = {0,0,1,-1,-1,-1,1,1};
         int dy[] = {1,-1,0,0,-1,1,-1,1};
@@ -25,7 +25,6 @@ public:
 
         int row = board.size();
         int col = board[0].size();
-        vector<vector<int>> matrix(row,vector<int>(col,0));
         
         for(int i=0; i<row; i++){
             for(int j=0; j<col; j++){
