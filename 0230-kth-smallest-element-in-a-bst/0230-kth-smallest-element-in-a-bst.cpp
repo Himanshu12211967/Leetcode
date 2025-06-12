@@ -12,14 +12,14 @@
 class Solution {
 public:
 
-    TreeNode *inorder(TreeNode *root,int k,int &depth){
+    TreeNode *inorder(TreeNode *root,int &k){
 
         if(root == NULL) return NULL;
 
-        TreeNode *left = inorder(root->left,k,depth);
-        depth++;
-        if(k == depth) return root;
-        TreeNode *right = inorder(root->right,k,depth);
+        TreeNode *left = inorder(root->left,k);
+        k--;
+        if(k == 0) return root;
+        TreeNode *right = inorder(root->right,k);
 
         if(left) return left;
         if(right) return right;
@@ -30,7 +30,7 @@ public:
     int kthSmallest(TreeNode* root, int k) {
         
         int depth = 0;
-        TreeNode *temp = inorder(root,k,depth);
+        TreeNode *temp = inorder(root,k);
         return temp->val;
 
     }
