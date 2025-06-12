@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Himanshu12211967/Leetcode/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Himanshu12211967/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Himanshu12211967/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Himanshu12211967/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Himanshu12211967/Leetcode/tree/master/0169-majority-element) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Himanshu12211967/Leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0189-rotate-array](https://github.com/Himanshu12211967/Leetcode/tree/master/0189-rotate-array) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Himanshu12211967/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/Himanshu12211967/Leetcode/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/Himanshu12211967/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Himanshu12211967/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Himanshu12211967/Leetcode/tree/master/0189-rotate-array) |
 | [0295-find-median-from-data-stream](https://github.com/Himanshu12211967/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0392-is-subsequence](https://github.com/Himanshu12211967/Leetcode/tree/master/0392-is-subsequence) |
@@ -396,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Himanshu12211967/Leetcode/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/Himanshu12211967/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Himanshu12211967/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Himanshu12211967/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0222-count-complete-tree-nodes](https://github.com/Himanshu12211967/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0300-longest-increasing-subsequence](https://github.com/Himanshu12211967/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Himanshu12211967/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
