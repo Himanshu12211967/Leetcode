@@ -359,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1327-last-person-to-fit-in-the-bus](https://github.com/Himanshu12211967/Leetcode/tree/master/1327-last-person-to-fit-in-the-bus) |
 | [1390-average-selling-price](https://github.com/Himanshu12211967/Leetcode/tree/master/1390-average-selling-price) |
 | [1452-restaurant-growth](https://github.com/Himanshu12211967/Leetcode/tree/master/1452-restaurant-growth) |
+| [1908-recyclable-and-low-fat-products](https://github.com/Himanshu12211967/Leetcode/tree/master/1908-recyclable-and-low-fat-products) |
 ## Design
 |  |
 | ------- |
