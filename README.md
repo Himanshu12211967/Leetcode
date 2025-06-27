@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0945-snakes-and-ladders](https://github.com/Himanshu12211967/Leetcode/tree/master/0945-snakes-and-ladders) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Himanshu12211967/Leetcode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1479-construct-target-array-with-multiple-sums](https://github.com/Himanshu12211967/Leetcode/tree/master/1479-construct-target-array-with-multiple-sums) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Himanshu12211967/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2195-time-needed-to-buy-tickets](https://github.com/Himanshu12211967/Leetcode/tree/master/2195-time-needed-to-buy-tickets) |
 | [2211-k-radius-subarray-averages](https://github.com/Himanshu12211967/Leetcode/tree/master/2211-k-radius-subarray-averages) |
 | [2662-check-knight-tour-configuration](https://github.com/Himanshu12211967/Leetcode/tree/master/2662-check-knight-tour-configuration) |
@@ -448,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Himanshu12211967/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Himanshu12211967/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Counting
 |  |
 | ------- |
@@ -518,5 +520,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Himanshu12211967/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Himanshu12211967/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2211-k-radius-subarray-averages](https://github.com/Himanshu12211967/Leetcode/tree/master/2211-k-radius-subarray-averages) |
 <!---LeetCode Topics End-->
