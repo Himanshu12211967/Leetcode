@@ -1,40 +1,38 @@
 class Solution {
 public:
-    bool solve(vector<double>& nums) {
-        if (nums.size() == 1) {
-            return abs(nums[0] - 24.0) < 1e-6;
-        }
 
-        // Try all pairs of numbers
-        for (int i = 0; i < nums.size(); i++) {
-            for (int j = 0; j < nums.size(); j++) {
-                if (i == j) continue;
+    bool solved(vector<int> &cards){
 
-                vector<double> next;
-                // Add unused numbers
-                for (int k = 0; k < nums.size(); k++) {
-                    if (k != i && k != j) next.push_back(nums[k]);
-                }
+        double a = cards[0],b = cards[1],c = cards[2],d = cards[3];
 
-                // Try all operations
-                for (int op = 0; op < 4; op++) {
-                    if (op == 0) next.push_back(nums[i] + nums[j]);
-                    if (op == 1) next.push_back(nums[i] - nums[j]);
-                    if (op == 2) next.push_back(nums[i] * nums[j]);
-                    if (op == 3 && nums[j] != 0) next.push_back(nums[i] / nums[j]);
-                    else if (op == 3) continue;
+        if(helper1(a+b,c,d) || helper1(a*b,c,d) || helper1(a-b,c,d) || helper1(a/b,c,d)) return true;
+        if(helper1(a,b,c+d) || helper1(a,b,c*d) || helper1(a,b,c-d) || helper1(a,b,c/d)) return true;
+        if(helper1(a,b+c,d) || helper1(a,b-c,d) || helper1(a,b*c,d) || helper1(a,b/c,d)) return true;
+        return false;
 
-                    if (solve(next)) return true;
-                    next.pop_back();  // backtrack
-                }
-            }
-        }
+    }
 
+    bool helper1(double a,double b,double c){
+
+        if(helper2(a+b,c) || helper2(a-b,c) || helper2(a/b,c) || helper2(a*b,c)) return true;
+        if(helper2(a,b+c) || helper2(a,b-c) || helper2(a,b/c) || helper2(a,b*c)) return true;
+        return false;
+    }
+
+    bool helper2(double a,double b){
+        if (abs(a+b-24.0) < 0.0001 || abs(a-b-24.0) < 0.0001 || abs(a*b-24.0) < 0.0001 || b&&abs(a/b-24.0) < 0.0001) 
+            return true;
         return false;
     }
 
     bool judgePoint24(vector<int>& cards) {
-        vector<double> nums(cards.begin(), cards.end());
-        return solve(nums);
+        
+        sort(cards.begin(),cards.end());
+
+        do{
+            if(solved(cards)) return true;
+        }while(next_permutation(cards.begin(),cards.end()));
+
+        return false;
     }
 };
