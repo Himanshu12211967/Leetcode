@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Himanshu12211967/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0455-assign-cookies](https://github.com/Himanshu12211967/Leetcode/tree/master/0455-assign-cookies) |
 | [0475-heaters](https://github.com/Himanshu12211967/Leetcode/tree/master/0475-heaters) |
+| [0494-target-sum](https://github.com/Himanshu12211967/Leetcode/tree/master/0494-target-sum) |
 | [0502-ipo](https://github.com/Himanshu12211967/Leetcode/tree/master/0502-ipo) |
 | [0506-relative-ranks](https://github.com/Himanshu12211967/Leetcode/tree/master/0506-relative-ranks) |
 | [0945-snakes-and-ladders](https://github.com/Himanshu12211967/Leetcode/tree/master/0945-snakes-and-ladders) |
@@ -334,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Himanshu12211967/Leetcode/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/Himanshu12211967/Leetcode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Himanshu12211967/Leetcode/tree/master/0392-is-subsequence) |
+| [0494-target-sum](https://github.com/Himanshu12211967/Leetcode/tree/master/0494-target-sum) |
 ## Combinatorics
 |  |
 | ------- |
@@ -348,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0077-combinations](https://github.com/Himanshu12211967/Leetcode/tree/master/0077-combinations) |
 | [0079-word-search](https://github.com/Himanshu12211967/Leetcode/tree/master/0079-word-search) |
 | [0257-binary-tree-paths](https://github.com/Himanshu12211967/Leetcode/tree/master/0257-binary-tree-paths) |
+| [0494-target-sum](https://github.com/Himanshu12211967/Leetcode/tree/master/0494-target-sum) |
 ## Tree
 |  |
 | ------- |
