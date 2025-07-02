@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0945-snakes-and-ladders](https://github.com/Himanshu12211967/Leetcode/tree/master/0945-snakes-and-ladders) |
 | [1046-max-consecutive-ones-iii](https://github.com/Himanshu12211967/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Himanshu12211967/Leetcode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
+| [1418-fair-distribution-of-cookies](https://github.com/Himanshu12211967/Leetcode/tree/master/1418-fair-distribution-of-cookies) |
 | [1479-construct-target-array-with-multiple-sums](https://github.com/Himanshu12211967/Leetcode/tree/master/1479-construct-target-array-with-multiple-sums) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Himanshu12211967/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1723-maximum-number-of-achievable-transfer-requests](https://github.com/Himanshu12211967/Leetcode/tree/master/1723-maximum-number-of-achievable-transfer-requests) |
@@ -349,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/Himanshu12211967/Leetcode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Himanshu12211967/Leetcode/tree/master/0392-is-subsequence) |
 | [0494-target-sum](https://github.com/Himanshu12211967/Leetcode/tree/master/0494-target-sum) |
+| [1418-fair-distribution-of-cookies](https://github.com/Himanshu12211967/Leetcode/tree/master/1418-fair-distribution-of-cookies) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/Himanshu12211967/Leetcode/tree/master/2696-the-number-of-beautiful-subsets) |
 ## Combinatorics
 |  |
@@ -369,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0491-non-decreasing-subsequences](https://github.com/Himanshu12211967/Leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [0494-target-sum](https://github.com/Himanshu12211967/Leetcode/tree/master/0494-target-sum) |
 | [0679-24-game](https://github.com/Himanshu12211967/Leetcode/tree/master/0679-24-game) |
+| [1418-fair-distribution-of-cookies](https://github.com/Himanshu12211967/Leetcode/tree/master/1418-fair-distribution-of-cookies) |
 | [1723-maximum-number-of-achievable-transfer-requests](https://github.com/Himanshu12211967/Leetcode/tree/master/1723-maximum-number-of-achievable-transfer-requests) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/Himanshu12211967/Leetcode/tree/master/2696-the-number-of-beautiful-subsets) |
 ## Tree
@@ -488,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/Himanshu12211967/Leetcode/tree/master/0338-counting-bits) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Himanshu12211967/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0491-non-decreasing-subsequences](https://github.com/Himanshu12211967/Leetcode/tree/master/0491-non-decreasing-subsequences) |
+| [1418-fair-distribution-of-cookies](https://github.com/Himanshu12211967/Leetcode/tree/master/1418-fair-distribution-of-cookies) |
 | [1723-maximum-number-of-achievable-transfer-requests](https://github.com/Himanshu12211967/Leetcode/tree/master/1723-maximum-number-of-achievable-transfer-requests) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Himanshu12211967/Leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/Himanshu12211967/Leetcode/tree/master/2519-find-the-original-array-of-prefix-xor) |
@@ -578,4 +582,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1723-maximum-number-of-achievable-transfer-requests](https://github.com/Himanshu12211967/Leetcode/tree/master/1723-maximum-number-of-achievable-transfer-requests) |
+## Bitmask
+|  |
+| ------- |
+| [1418-fair-distribution-of-cookies](https://github.com/Himanshu12211967/Leetcode/tree/master/1418-fair-distribution-of-cookies) |
 <!---LeetCode Topics End-->
