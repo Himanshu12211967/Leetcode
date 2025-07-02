@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Himanshu12211967/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0455-assign-cookies](https://github.com/Himanshu12211967/Leetcode/tree/master/0455-assign-cookies) |
 | [0475-heaters](https://github.com/Himanshu12211967/Leetcode/tree/master/0475-heaters) |
+| [0491-non-decreasing-subsequences](https://github.com/Himanshu12211967/Leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [0494-target-sum](https://github.com/Himanshu12211967/Leetcode/tree/master/0494-target-sum) |
 | [0502-ipo](https://github.com/Himanshu12211967/Leetcode/tree/master/0502-ipo) |
 | [0506-relative-ranks](https://github.com/Himanshu12211967/Leetcode/tree/master/0506-relative-ranks) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Himanshu12211967/Leetcode/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/Himanshu12211967/Leetcode/tree/master/0383-ransom-note) |
 | [0433-minimum-genetic-mutation](https://github.com/Himanshu12211967/Leetcode/tree/master/0433-minimum-genetic-mutation) |
+| [0491-non-decreasing-subsequences](https://github.com/Himanshu12211967/Leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/Himanshu12211967/Leetcode/tree/master/2696-the-number-of-beautiful-subsets) |
 ## String
 |  |
@@ -363,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Himanshu12211967/Leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Himanshu12211967/Leetcode/tree/master/0090-subsets-ii) |
 | [0257-binary-tree-paths](https://github.com/Himanshu12211967/Leetcode/tree/master/0257-binary-tree-paths) |
+| [0491-non-decreasing-subsequences](https://github.com/Himanshu12211967/Leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [0494-target-sum](https://github.com/Himanshu12211967/Leetcode/tree/master/0494-target-sum) |
 | [0679-24-game](https://github.com/Himanshu12211967/Leetcode/tree/master/0679-24-game) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/Himanshu12211967/Leetcode/tree/master/2696-the-number-of-beautiful-subsets) |
@@ -482,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/Himanshu12211967/Leetcode/tree/master/0260-single-number-iii) |
 | [0338-counting-bits](https://github.com/Himanshu12211967/Leetcode/tree/master/0338-counting-bits) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Himanshu12211967/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0491-non-decreasing-subsequences](https://github.com/Himanshu12211967/Leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Himanshu12211967/Leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/Himanshu12211967/Leetcode/tree/master/2519-find-the-original-array-of-prefix-xor) |
 ## Prefix Sum
