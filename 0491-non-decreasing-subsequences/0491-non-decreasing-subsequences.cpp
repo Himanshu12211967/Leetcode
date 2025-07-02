@@ -10,11 +10,9 @@ public:
         }
 
         if(idx > 0 && temp.size() > 0 && temp[temp.size()-1] == nums[idx]){
-            if(temp.empty() ||temp.size() > 0 && temp.back() <= nums[idx]){
-                temp.push_back(nums[idx]);
-                solve(idx+1,ans,nums,temp);
-                temp.pop_back();
-            }
+            temp.push_back(nums[idx]);
+            solve(idx+1,ans,nums,temp);
+            temp.pop_back();
         }
         else{
             if(temp.empty() || temp.size() > 0 && temp.back() <= nums[idx]){
