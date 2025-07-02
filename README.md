@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Himanshu12211967/Leetcode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1479-construct-target-array-with-multiple-sums](https://github.com/Himanshu12211967/Leetcode/tree/master/1479-construct-target-array-with-multiple-sums) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Himanshu12211967/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1723-maximum-number-of-achievable-transfer-requests](https://github.com/Himanshu12211967/Leetcode/tree/master/1723-maximum-number-of-achievable-transfer-requests) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Himanshu12211967/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2195-time-needed-to-buy-tickets](https://github.com/Himanshu12211967/Leetcode/tree/master/2195-time-needed-to-buy-tickets) |
 | [2211-k-radius-subarray-averages](https://github.com/Himanshu12211967/Leetcode/tree/master/2211-k-radius-subarray-averages) |
@@ -368,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0491-non-decreasing-subsequences](https://github.com/Himanshu12211967/Leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [0494-target-sum](https://github.com/Himanshu12211967/Leetcode/tree/master/0494-target-sum) |
 | [0679-24-game](https://github.com/Himanshu12211967/Leetcode/tree/master/0679-24-game) |
+| [1723-maximum-number-of-achievable-transfer-requests](https://github.com/Himanshu12211967/Leetcode/tree/master/1723-maximum-number-of-achievable-transfer-requests) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/Himanshu12211967/Leetcode/tree/master/2696-the-number-of-beautiful-subsets) |
 ## Tree
 |  |
@@ -486,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/Himanshu12211967/Leetcode/tree/master/0338-counting-bits) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Himanshu12211967/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0491-non-decreasing-subsequences](https://github.com/Himanshu12211967/Leetcode/tree/master/0491-non-decreasing-subsequences) |
+| [1723-maximum-number-of-achievable-transfer-requests](https://github.com/Himanshu12211967/Leetcode/tree/master/1723-maximum-number-of-achievable-transfer-requests) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Himanshu12211967/Leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/Himanshu12211967/Leetcode/tree/master/2519-find-the-original-array-of-prefix-xor) |
 ## Prefix Sum
@@ -571,4 +574,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2211-k-radius-subarray-averages](https://github.com/Himanshu12211967/Leetcode/tree/master/2211-k-radius-subarray-averages) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Himanshu12211967/Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Himanshu12211967/Leetcode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
+## Enumeration
+|  |
+| ------- |
+| [1723-maximum-number-of-achievable-transfer-requests](https://github.com/Himanshu12211967/Leetcode/tree/master/1723-maximum-number-of-achievable-transfer-requests) |
 <!---LeetCode Topics End-->
