@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Himanshu12211967/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Himanshu12211967/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/Himanshu12211967/Leetcode/tree/master/0226-invert-binary-tree) |
+| [0279-perfect-squares](https://github.com/Himanshu12211967/Leetcode/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/Himanshu12211967/Leetcode/tree/master/0322-coin-change) |
 | [0433-minimum-genetic-mutation](https://github.com/Himanshu12211967/Leetcode/tree/master/0433-minimum-genetic-mutation) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Himanshu12211967/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -320,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/Himanshu12211967/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/Himanshu12211967/Leetcode/tree/master/0189-rotate-array) |
 | [0224-basic-calculator](https://github.com/Himanshu12211967/Leetcode/tree/master/0224-basic-calculator) |
+| [0279-perfect-squares](https://github.com/Himanshu12211967/Leetcode/tree/master/0279-perfect-squares) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Himanshu12211967/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0679-24-game](https://github.com/Himanshu12211967/Leetcode/tree/master/0679-24-game) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Himanshu12211967/Leetcode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
@@ -348,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Himanshu12211967/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Himanshu12211967/Leetcode/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/Himanshu12211967/Leetcode/tree/master/0221-maximal-square) |
+| [0279-perfect-squares](https://github.com/Himanshu12211967/Leetcode/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/Himanshu12211967/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0312-burst-balloons](https://github.com/Himanshu12211967/Leetcode/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/Himanshu12211967/Leetcode/tree/master/0322-coin-change) |
