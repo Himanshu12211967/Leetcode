@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Himanshu12211967/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0312-burst-balloons](https://github.com/Himanshu12211967/Leetcode/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/Himanshu12211967/Leetcode/tree/master/0322-coin-change) |
+| [0330-patching-array](https://github.com/Himanshu12211967/Leetcode/tree/master/0330-patching-array) |
 | [0354-russian-doll-envelopes](https://github.com/Himanshu12211967/Leetcode/tree/master/0354-russian-doll-envelopes) |
 | [0377-combination-sum-iv](https://github.com/Himanshu12211967/Leetcode/tree/master/0377-combination-sum-iv) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Himanshu12211967/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Himanshu12211967/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/Himanshu12211967/Leetcode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/Himanshu12211967/Leetcode/tree/master/0135-candy) |
+| [0330-patching-array](https://github.com/Himanshu12211967/Leetcode/tree/master/0330-patching-array) |
 | [0455-assign-cookies](https://github.com/Himanshu12211967/Leetcode/tree/master/0455-assign-cookies) |
 | [0502-ipo](https://github.com/Himanshu12211967/Leetcode/tree/master/0502-ipo) |
 | [0973-stamping-the-sequence](https://github.com/Himanshu12211967/Leetcode/tree/master/0973-stamping-the-sequence) |
