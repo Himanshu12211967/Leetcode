@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1479-construct-target-array-with-multiple-sums](https://github.com/Himanshu12211967/Leetcode/tree/master/1479-construct-target-array-with-multiple-sums) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Himanshu12211967/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1723-maximum-number-of-achievable-transfer-requests](https://github.com/Himanshu12211967/Leetcode/tree/master/1723-maximum-number-of-achievable-transfer-requests) |
+| [1839-decode-xored-array](https://github.com/Himanshu12211967/Leetcode/tree/master/1839-decode-xored-array) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Himanshu12211967/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2195-time-needed-to-buy-tickets](https://github.com/Himanshu12211967/Leetcode/tree/master/2195-time-needed-to-buy-tickets) |
 | [2211-k-radius-subarray-averages](https://github.com/Himanshu12211967/Leetcode/tree/master/2211-k-radius-subarray-averages) |
@@ -514,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0491-non-decreasing-subsequences](https://github.com/Himanshu12211967/Leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [1418-fair-distribution-of-cookies](https://github.com/Himanshu12211967/Leetcode/tree/master/1418-fair-distribution-of-cookies) |
 | [1723-maximum-number-of-achievable-transfer-requests](https://github.com/Himanshu12211967/Leetcode/tree/master/1723-maximum-number-of-achievable-transfer-requests) |
+| [1839-decode-xored-array](https://github.com/Himanshu12211967/Leetcode/tree/master/1839-decode-xored-array) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Himanshu12211967/Leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/Himanshu12211967/Leetcode/tree/master/2519-find-the-original-array-of-prefix-xor) |
 ## Prefix Sum
