@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Himanshu12211967/Leetcode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/Himanshu12211967/Leetcode/tree/master/0392-is-subsequence) |
 | [0433-minimum-genetic-mutation](https://github.com/Himanshu12211967/Leetcode/tree/master/0433-minimum-genetic-mutation) |
+| [0606-construct-string-from-binary-tree](https://github.com/Himanshu12211967/Leetcode/tree/master/0606-construct-string-from-binary-tree) |
 | [0973-stamping-the-sequence](https://github.com/Himanshu12211967/Leetcode/tree/master/0973-stamping-the-sequence) |
 | [1250-longest-common-subsequence](https://github.com/Himanshu12211967/Leetcode/tree/master/1250-longest-common-subsequence) |
 ## Depth-First Search
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/Himanshu12211967/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Himanshu12211967/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Himanshu12211967/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0606-construct-string-from-binary-tree](https://github.com/Himanshu12211967/Leetcode/tree/master/0606-construct-string-from-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Himanshu12211967/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [2662-check-knight-tour-configuration](https://github.com/Himanshu12211967/Leetcode/tree/master/2662-check-knight-tour-configuration) |
 ## Breadth-First Search
@@ -430,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Himanshu12211967/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Himanshu12211967/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Himanshu12211967/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0606-construct-string-from-binary-tree](https://github.com/Himanshu12211967/Leetcode/tree/master/0606-construct-string-from-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Himanshu12211967/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -455,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Himanshu12211967/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Himanshu12211967/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Himanshu12211967/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0606-construct-string-from-binary-tree](https://github.com/Himanshu12211967/Leetcode/tree/master/0606-construct-string-from-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Himanshu12211967/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Database
 |  |
