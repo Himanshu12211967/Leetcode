@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0502-ipo](https://github.com/Himanshu12211967/Leetcode/tree/master/0502-ipo) |
 | [0506-relative-ranks](https://github.com/Himanshu12211967/Leetcode/tree/master/0506-relative-ranks) |
 | [0679-24-game](https://github.com/Himanshu12211967/Leetcode/tree/master/0679-24-game) |
+| [0811-number-of-subarrays-with-bounded-maximum](https://github.com/Himanshu12211967/Leetcode/tree/master/0811-number-of-subarrays-with-bounded-maximum) |
 | [0945-snakes-and-ladders](https://github.com/Himanshu12211967/Leetcode/tree/master/0945-snakes-and-ladders) |
 | [1046-max-consecutive-ones-iii](https://github.com/Himanshu12211967/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1105-uncrossed-lines](https://github.com/Himanshu12211967/Leetcode/tree/master/1105-uncrossed-lines) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Himanshu12211967/Leetcode/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/Himanshu12211967/Leetcode/tree/master/0455-assign-cookies) |
 | [0475-heaters](https://github.com/Himanshu12211967/Leetcode/tree/master/0475-heaters) |
+| [0811-number-of-subarrays-with-bounded-maximum](https://github.com/Himanshu12211967/Leetcode/tree/master/0811-number-of-subarrays-with-bounded-maximum) |
 ## Divide and Conquer
 |  |
 | ------- |
