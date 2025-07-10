@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2294-minimum-time-to-complete-trips](https://github.com/Himanshu12211967/Leetcode/tree/master/2294-minimum-time-to-complete-trips) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Himanshu12211967/Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/Himanshu12211967/Leetcode/tree/master/2519-find-the-original-array-of-prefix-xor) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/Himanshu12211967/Leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2662-check-knight-tour-configuration](https://github.com/Himanshu12211967/Leetcode/tree/master/2662-check-knight-tour-configuration) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/Himanshu12211967/Leetcode/tree/master/2696-the-number-of-beautiful-subsets) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Himanshu12211967/Leetcode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
@@ -322,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-stamping-the-sequence](https://github.com/Himanshu12211967/Leetcode/tree/master/0973-stamping-the-sequence) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Himanshu12211967/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2195-time-needed-to-buy-tickets](https://github.com/Himanshu12211967/Leetcode/tree/master/2195-time-needed-to-buy-tickets) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/Himanshu12211967/Leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 ## Math
 |  |
 | ------- |
@@ -611,6 +613,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1813-maximum-erasure-value](https://github.com/Himanshu12211967/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [2211-k-radius-subarray-averages](https://github.com/Himanshu12211967/Leetcode/tree/master/2211-k-radius-subarray-averages) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Himanshu12211967/Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/Himanshu12211967/Leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Himanshu12211967/Leetcode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 ## Enumeration
 |  |
@@ -620,4 +623,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1418-fair-distribution-of-cookies](https://github.com/Himanshu12211967/Leetcode/tree/master/1418-fair-distribution-of-cookies) |
+## Monotonic Queue
+|  |
+| ------- |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/Himanshu12211967/Leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 <!---LeetCode Topics End-->
