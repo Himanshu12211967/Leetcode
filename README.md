@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Himanshu12211967/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0606-construct-string-from-binary-tree](https://github.com/Himanshu12211967/Leetcode/tree/master/0606-construct-string-from-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Himanshu12211967/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0988-flip-equivalent-binary-trees](https://github.com/Himanshu12211967/Leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [2662-check-knight-tour-configuration](https://github.com/Himanshu12211967/Leetcode/tree/master/2662-check-knight-tour-configuration) |
 ## Breadth-First Search
 |  |
@@ -434,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Himanshu12211967/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0606-construct-string-from-binary-tree](https://github.com/Himanshu12211967/Leetcode/tree/master/0606-construct-string-from-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Himanshu12211967/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0988-flip-equivalent-binary-trees](https://github.com/Himanshu12211967/Leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 ## Binary Tree
 |  |
 | ------- |
@@ -460,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Himanshu12211967/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0606-construct-string-from-binary-tree](https://github.com/Himanshu12211967/Leetcode/tree/master/0606-construct-string-from-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Himanshu12211967/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0988-flip-equivalent-binary-trees](https://github.com/Himanshu12211967/Leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 ## Database
 |  |
 | ------- |
