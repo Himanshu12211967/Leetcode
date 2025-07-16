@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Himanshu12211967/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Himanshu12211967/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0945-snakes-and-ladders](https://github.com/Himanshu12211967/Leetcode/tree/master/0945-snakes-and-ladders) |
+| [0998-check-completeness-of-a-binary-tree](https://github.com/Himanshu12211967/Leetcode/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [2662-check-knight-tour-configuration](https://github.com/Himanshu12211967/Leetcode/tree/master/2662-check-knight-tour-configuration) |
 ## Matrix
 |  |
@@ -436,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0606-construct-string-from-binary-tree](https://github.com/Himanshu12211967/Leetcode/tree/master/0606-construct-string-from-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Himanshu12211967/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Himanshu12211967/Leetcode/tree/master/0988-flip-equivalent-binary-trees) |
+| [0998-check-completeness-of-a-binary-tree](https://github.com/Himanshu12211967/Leetcode/tree/master/0998-check-completeness-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -463,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0606-construct-string-from-binary-tree](https://github.com/Himanshu12211967/Leetcode/tree/master/0606-construct-string-from-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Himanshu12211967/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Himanshu12211967/Leetcode/tree/master/0988-flip-equivalent-binary-trees) |
+| [0998-check-completeness-of-a-binary-tree](https://github.com/Himanshu12211967/Leetcode/tree/master/0998-check-completeness-of-a-binary-tree) |
 ## Database
 |  |
 | ------- |
