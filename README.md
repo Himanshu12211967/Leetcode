@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0945-snakes-and-ladders](https://github.com/Himanshu12211967/Leetcode/tree/master/0945-snakes-and-ladders) |
 | [1046-max-consecutive-ones-iii](https://github.com/Himanshu12211967/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1105-uncrossed-lines](https://github.com/Himanshu12211967/Leetcode/tree/master/1105-uncrossed-lines) |
+| [1117-as-far-from-land-as-possible](https://github.com/Himanshu12211967/Leetcode/tree/master/1117-as-far-from-land-as-possible) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Himanshu12211967/Leetcode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1418-fair-distribution-of-cookies](https://github.com/Himanshu12211967/Leetcode/tree/master/1418-fair-distribution-of-cookies) |
 | [1479-construct-target-array-with-multiple-sums](https://github.com/Himanshu12211967/Leetcode/tree/master/1479-construct-target-array-with-multiple-sums) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0945-snakes-and-ladders](https://github.com/Himanshu12211967/Leetcode/tree/master/0945-snakes-and-ladders) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/Himanshu12211967/Leetcode/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/Himanshu12211967/Leetcode/tree/master/1035-cousins-in-binary-tree) |
+| [1117-as-far-from-land-as-possible](https://github.com/Himanshu12211967/Leetcode/tree/master/1117-as-far-from-land-as-possible) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Himanshu12211967/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2662-check-knight-tour-configuration](https://github.com/Himanshu12211967/Leetcode/tree/master/2662-check-knight-tour-configuration) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Himanshu12211967/Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Himanshu12211967/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Himanshu12211967/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0945-snakes-and-ladders](https://github.com/Himanshu12211967/Leetcode/tree/master/0945-snakes-and-ladders) |
+| [1117-as-far-from-land-as-possible](https://github.com/Himanshu12211967/Leetcode/tree/master/1117-as-far-from-land-as-possible) |
 | [2662-check-knight-tour-configuration](https://github.com/Himanshu12211967/Leetcode/tree/master/2662-check-knight-tour-configuration) |
 ## Simulation
 |  |
@@ -396,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/Himanshu12211967/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Himanshu12211967/Leetcode/tree/master/0494-target-sum) |
 | [1105-uncrossed-lines](https://github.com/Himanshu12211967/Leetcode/tree/master/1105-uncrossed-lines) |
+| [1117-as-far-from-land-as-possible](https://github.com/Himanshu12211967/Leetcode/tree/master/1117-as-far-from-land-as-possible) |
 | [1250-longest-common-subsequence](https://github.com/Himanshu12211967/Leetcode/tree/master/1250-longest-common-subsequence) |
 | [1418-fair-distribution-of-cookies](https://github.com/Himanshu12211967/Leetcode/tree/master/1418-fair-distribution-of-cookies) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/Himanshu12211967/Leetcode/tree/master/2696-the-number-of-beautiful-subsets) |
