@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0433-minimum-genetic-mutation](https://github.com/Himanshu12211967/Leetcode/tree/master/0433-minimum-genetic-mutation) |
 | [0491-non-decreasing-subsequences](https://github.com/Himanshu12211967/Leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [1813-maximum-erasure-value](https://github.com/Himanshu12211967/Leetcode/tree/master/1813-maximum-erasure-value) |
+| [2677-cousins-in-binary-tree-ii](https://github.com/Himanshu12211967/Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/Himanshu12211967/Leetcode/tree/master/2696-the-number-of-beautiful-subsets) |
 ## String
 |  |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/Himanshu12211967/Leetcode/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Himanshu12211967/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2662-check-knight-tour-configuration](https://github.com/Himanshu12211967/Leetcode/tree/master/2662-check-knight-tour-configuration) |
+| [2677-cousins-in-binary-tree-ii](https://github.com/Himanshu12211967/Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1035-cousins-in-binary-tree](https://github.com/Himanshu12211967/Leetcode/tree/master/1035-cousins-in-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Himanshu12211967/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2662-check-knight-tour-configuration](https://github.com/Himanshu12211967/Leetcode/tree/master/2662-check-knight-tour-configuration) |
+| [2677-cousins-in-binary-tree-ii](https://github.com/Himanshu12211967/Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -454,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1035-cousins-in-binary-tree](https://github.com/Himanshu12211967/Leetcode/tree/master/1035-cousins-in-binary-tree) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/Himanshu12211967/Leetcode/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Himanshu12211967/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+| [2677-cousins-in-binary-tree-ii](https://github.com/Himanshu12211967/Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Binary Tree
 |  |
 | ------- |
@@ -488,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1035-cousins-in-binary-tree](https://github.com/Himanshu12211967/Leetcode/tree/master/1035-cousins-in-binary-tree) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/Himanshu12211967/Leetcode/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Himanshu12211967/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+| [2677-cousins-in-binary-tree-ii](https://github.com/Himanshu12211967/Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Database
 |  |
 | ------- |
