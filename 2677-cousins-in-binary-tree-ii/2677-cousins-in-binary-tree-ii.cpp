@@ -52,7 +52,6 @@ public:
         while(!q.empty()){
 
             int size = q.size();
-            int sum = 0;
 
             while(size--){
 
@@ -60,26 +59,22 @@ public:
                 int lvl = q.front().second;
                 q.pop();
 
-                int total_sum = 0;
-                if(lvl+1 < lvl_sum.size())
-                total_sum = lvl_sum[lvl+1];
+                int next_lvl_sum = (lvl+1 < lvl_sum.size()) ? lvl_sum[lvl+1] : 0;
+                int sibling_sum = 0;
+
+                if(node->left) sibling_sum += node->left->val;
+                if(node->right) sibling_sum += node->right->val;
+
+                int cousins_sum = next_lvl_sum - sibling_sum;
 
                 if(node->left){
                     q.push({node->left,lvl+1});
-                    total_sum -= node->left->val;
+                    node->left->val = cousins_sum;
                 }
 
                 if(node->right){
                     q.push({node->right,lvl+1});
-                    total_sum -= node->right->val;
-                }
-
-                if(node->left){
-                    node->left->val = total_sum;
-                }
-
-                if(node->right){
-                    node->right->val = total_sum;
+                    node->right->val = cousins_sum;
                 }
 
             }
