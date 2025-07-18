@@ -12,26 +12,18 @@
 class Solution {
 public:
 
-    TreeNode *inorder(TreeNode *root,int &k){
-
-        if(root == NULL) return NULL;
-
-        TreeNode *left = inorder(root->left,k);
-        k--;
-        if(k == 0) return root;
-        TreeNode *right = inorder(root->right,k);
-
-        if(left) return left;
-        if(right) return right;
-        return NULL;
-
-    }
-
-    int kthSmallest(TreeNode* root, int k) {
+    int kthSmallest(TreeNode* root, int &k) {
         
-        int depth = 0;
-        TreeNode *temp = inorder(root,k);
-        return temp->val;
+        if(root == NULL) return -1;
+
+        int left = kthSmallest(root->left,k);
+        k--;
+        if(k == 0) return root->val;
+        int right = kthSmallest(root->right,k);
+
+        if(left == -1 && right == -1) return -1;
+        if(left != -1) return left;
+        return right;
 
     }
 };
